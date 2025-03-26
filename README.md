@@ -23,7 +23,7 @@ Other languages:
 
 正確：
 
-> 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。
+> ZhanG 在 LeanCloud 上，數據儲存是圍繞 `AVObject` 進行的。
 
 錯誤：
 
